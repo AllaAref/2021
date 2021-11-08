@@ -1,0 +1,7 @@
+.underlined {
+    border-bottom: 1px solid #000;
+}
+
+.text-bold {
+    text-decoration: bold;
+}
